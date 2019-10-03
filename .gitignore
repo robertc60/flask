@@ -3,13 +3,13 @@
 *.pyc
 __pycache__/
 
-instance/
+/instance/
 
 .pytest_cache/
 .coverage
-htmlcov/
+/htmlcov/
 
-dist/
-build/
+/dist/
+/build/
 *.egg-info/
 
